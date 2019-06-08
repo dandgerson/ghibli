@@ -1,0 +1,29 @@
+{
+  "name": "ghibli",
+  "version": "1.0.0",
+  "description": "javascript fetch practice",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dandgerson/ghibli.git"
+  },
+  "keywords": [
+    "learn",
+    "fetch",
+    "javascript",
+    "json",
+    "api"
+  ],
+  "author": "dandgerson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dandgerson/ghibli/issues"
+  },
+  "homepage": "https://github.com/dandgerson/ghibli#readme",
+  "devDependencies": {
+    "gh-pages": "^2.0.1"
+  }
+}
